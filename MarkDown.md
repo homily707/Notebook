@@ -9,7 +9,7 @@ title use '#' + 'space'
 >blockquote
 this is a basic block
 
-># block can have a title
+># block can have a title by using '>'
 >>blcok can have a > nest struct
 
 can be used to make list - * + 
